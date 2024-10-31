@@ -1,5 +1,6 @@
 const container_pokemon = document.getElementById('container_pokemon');
 const pokemon_count = 150;
+//const pokemon_count = 1010;
 
 const colors = {
 	fire: '#FDDFDF',
@@ -47,7 +48,7 @@ const createPokemonCard = (pokemon) => {
 
 	const pokeInnerHTML = `
         <div class="container_img">
-            <img src="/sprites/pokemon/other/showdown/${pokemon.id}.gif" alt="">
+            <img src="sprites/pokemon/other/showdown/${pokemon.id}.gif" alt="">
         </div>
         <div class="info">
             <span class="number">#${id}</span>
