@@ -1,0 +1,15 @@
+
+<img src="${pokemon.sprites.front_default}" alt="">
+<img src="/sprites/pokemon/${pokemon.id}.png" alt="">
+<img src="${pokemon.sprites.other.dream_world.front_default}" alt="">
+
+
+Añadir sonido
+Añadir Peso
+Añadir Altura
+
+
+
+hay que descargar
+
+SONIDOS
