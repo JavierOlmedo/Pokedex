@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/JavierOlmedo/Pokedex/main/img/logo.png">
     <p>🔎 Explore all your favorite Pokémon in one place!</p>
+    <p>Open the <a href="https://javierolmedo.github.io/Pokedex/" target="blank">App</a> in your browser and enjoy your Pokémon adventure! 🌟</p>
 </div>
-
-Open the [app](https://javierolmedo.github.io/Pokedex/) in your browser and enjoy your Pokémon adventure! 🌟
 
 # Features
 - 🔎 Search for any Pokémon by name or ID.
@@ -13,7 +12,7 @@ Open the [app](https://javierolmedo.github.io/Pokedex/) in your browser and enjo
 - 📝 Easy navigation and intuitive user interface.
 
 # Screenshots 📸
-<div align="center"> <img src="https://raw.githubusercontent.com/JavierOlmedo/Pokedex/main/img/screenshot_v10_001.png">
+<div align="center"> <img src="https://raw.githubusercontent.com/JavierOlmedo/Pokedex/main/img/screenshot_v10_001.png"></div>
 
 # Upcoming Features ⏳
 - 🌐 Localization support for multiple languages.
@@ -23,7 +22,7 @@ Open the [app](https://javierolmedo.github.io/Pokedex/) in your browser and enjo
 - 📅 Add a "Pokémon of the Day" feature.
 
 # Changelog 📝
-v1.0.0 (2024-11-01)
+**v1.0.0** (2024-11-01)
 - Initial release with basic Pokédex functionality.
 - Added Pokémon search by name and ID.
 - Included detailed Pokémon stats and images.
