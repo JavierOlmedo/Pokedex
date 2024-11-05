@@ -80,3 +80,7 @@ body {
     margin: 15px 0 7px;
     font-size: 14px;
 }
+
+.container_sound {
+    max-width: 4px; /* Máximo ancho deseado, opcional */
+}
